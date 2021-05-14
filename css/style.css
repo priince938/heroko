@@ -262,7 +262,8 @@ section {
   }
   #footer {
     background-color: gray;
-    height: auto;
+    
+    margin-bottom:0% ;
   }
   .footer-container {
     text-align: center;
@@ -438,6 +439,7 @@ section {
   }
   #footer {
     background-color: gray;
+    margin-bottom: 0%;
    
   }
   .footer-container {
